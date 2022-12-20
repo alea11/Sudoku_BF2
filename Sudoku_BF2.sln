@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku_BF2", "Sudoku_BF2\Sudoku_BF2.csproj", "{092E2925-506E-41BE-983A-98D6CB50E384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DancingLinks", "DancingLinks\DancingLinks.csproj", "{F747788D-7A0B-4545-BF9F-7A7124390288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{092E2925-506E-41BE-983A-98D6CB50E384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092E2925-506E-41BE-983A-98D6CB50E384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092E2925-506E-41BE-983A-98D6CB50E384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092E2925-506E-41BE-983A-98D6CB50E384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F747788D-7A0B-4545-BF9F-7A7124390288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F747788D-7A0B-4545-BF9F-7A7124390288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F747788D-7A0B-4545-BF9F-7A7124390288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F747788D-7A0B-4545-BF9F-7A7124390288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4FF56AF-96BB-4400-A712-31EDA5E9E556}
+	EndGlobalSection
+EndGlobal
